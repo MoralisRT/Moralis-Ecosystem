@@ -584,15 +584,5 @@ class Table {
   }
 }
 
-  // addPlayer(player) {
-  //   this.players.push(player);
-  // }
-
-  // removePlayer(socketId) {
-  //   this.players = this.players.filter(
-  //     (player) => player && player.socketId !== socketId,
-  //   );
-  //   this.standPlayer(socketId);
-  // }
 
 module.exports = Table;
