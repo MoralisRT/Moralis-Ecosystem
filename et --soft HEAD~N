@@ -1,0 +1,363 @@
+[33mb7f140a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m Update README.md
+[33m08f886a[m Update auth.js
+[33mf6aa073[m Update tasks.json
+[33mb7e0e6f[m Add files via upload
+[33mf47b9ed[m Delete client/public/hero-banner.png
+[33mf987e1a[m Rename here-banner.png to hero-banner.png
+[33m897f960[m Add files via upload
+[33mbad59b2[m Delete client/public/hero-banner.png
+[33md1377db[m Update README.md
+[33mf08e8a9[m Update auth.js
+[33m2b23914[m Update auth.js
+[33me508354[m Delete config/loadEnv.js
+[33maed0522[m Delete .env.local
+[33m21ba9ef[m Delete .env
+[33m115aaf4[m Update server.js
+[33mb1d4588[m Update README.md
+[33mdc68f2c[m Update README.md
+[33mf58a6f3[m Update README.md
+[33mc872b53[m Update server.js
+[33m7111f22[m Update auth.js
+[33mc5450f6[m Update README.md
+[33m038add8[m Upload banner
+[33m8ee5327[m Update README.md
+[33m24d15cd[m Create settings.json
+[33m4ce6fcc[m Update tasks.json
+[33m6eb446e[m Update .env
+[33mc341d22[m Update README.md
+[33m386c5a1[m update Readme file
+[33m995e017[m update Readme file
+[33mda17aa7[m update entire new API authentication, fix error
+[33md3c16d8[m update g-new API authentication syntax error
+[33m377cdda[m update g-new API authentication syntax error
+[33mac2fe63[m update final API connection syntax error
+[33m89fbd5c[m update final API connection syntax
+[33maadf6f4[m update Readme file
+[33m1518764[m update final API client components, fix server config issue
+[33ma28395d[m update authentication feature, poker game logic flow
+[33ma07c3ef[m recoever old vscode extension flow for incase
+[33m2e9586a[m add integration tests for poker game flow
+[33m8a02f6e[m setup basic Express server config
+[33mc8f88f6[m recover old vscode extension for incase
+[33m1d03371[m update poker game logic flow feature fix authenticator issue
+[33mb6a4cc3[m readme updated
+[33m8ce9b09[m Update demo_test
+[33m76bb590[m Update testv1
+[33m14ff0df[m update backend port
+[33maa9abc5[m test build
+[33m89da1a9[m update Users Token | testv1
+[33mcadcccc[m update readme
+[33m5514628[m update Users field
+[33m60fbafc[m update env
+[33m843c1cb[m update env
+[33m5ba8715[m update config
+[33m6dee298[m update readme
+[33mbad3f2c[m update .env
+[33m89ca98f[m change ChipAmountPill.js
+[33mbb879a3[m update Client UI
+[33mcda90b2[m update Readme
+[33m5088fde[m remove openai api key
+[33m4922d76[m update .env
+[33m5c0d276[m update .env file
+[33m72afe36[m update loading screen
+[33mc2aac16[m update readme
+[33m7f1243d[m check status
+[33m5dce602[m update middleware
+[33m63f5989[m add image asset
+[33m3c6de27[m update readme
+[33m86f2523[m server host 7777
+[33md45cbcf[m remove App service
+[33m575e9e8[m Add Card Class
+[33mca6580e[m Dashboard Landing page
+[33mb2ffb45[m useNavMenu.js
+[33m5a2c698[m main context
+[33mf2fee5e[m fix compoments layout
+[33m81c40da[m client/src/apis/index.js
+[33m29a9321[m assets
+[33ma4805bd[m remove package-lock.json
+[33mceef179[m set configration
+[33m92d9f64[m remove gitignore file
+[33mac65dd9[m remove cs_sit_down function
+[33mce9deb2[m change routes/api/auth.js
+[33m2274097[m game logic
+[33m8c076f1[m middleware/index.js
+[33mf411a67[m fix chips.js
+[33m2c5c1c4[m Update DB.js
+[33m620259d[m main
+[33m25de80b[m mina
+[33m0b81a59[m main
+[33mde999a2[m 11.0.1
+[33mc88c559[m update deps, fix lint
+[33m6c7b5e0[m update deps
+[33m7d8f6d3[m re-add LICENSE
+[33m54d1923[m update deps
+[33m3b5bd7f[m update deps, adjust vitest config
+[33m59c480b[m badges
+[33m1aed3e9[m 11.0.0
+[33m7770633[m require and test node 18+
+[33mfe91012[m rename bin to dist
+[33mb19dcd4[m remove url support and port-numbers dependency
+[33m26d3e77[m update test config
+[33m16e0b9a[m 10.0.3
+[33m0cae149[m fix vitest import, update deps
+[33meec7862[m 10.0.2
+[33m38eb73f[m update deps
+[33m42ce859[m use named imports
+[33m5660c7f[m 10.0.1
+[33m3f71fbd[m update deps
+[33me5c317d[m 10.0.0
+[33m9bac3be[m switch publish
+[33m671544d[m modernize, convert to esm
+[33m0f3ab11[m 9.0.1
+[33m2db66fa[m update deps
+[33m38543af[m test node 14
+[33m9600f54[m 9.0.0
+[33m61fe2fa[m require node 10, modernize
+[33m34ee602[m Merge pull request #15 from silverwind/dependabot/npm_and_yarn/minimist-1.2.5
+[33md6f6cbd[m Bump minimist from 1.2.0 to 1.2.5
+[33m377df7b[m switch to 'versions'
+[33m766c86a[m 8.0.1
+[33m9142f51[m tooling tweaks
+[33mbd38050[m don't print undefined srcport
+[33mcb42ade[m update dependencies, fix lint
+[33mf4e0b6e[m 8.0.0
+[33m14ac979[m update dependencies, require node 8
+[33m06cd4e4[m 7.0.0
+[33m711dc29[m change method name from end() to stop()
+[33m921ac05[m 6.1.0
+[33mf8189c1[m update dependencies
+[33m95e17f7[m add tcpie#stop - fixes #14
+[33mc4f6c04[m 6.0.0
+[33me77d7cd[m update dependencies
+[33md2d06cd[m change default port to 22
+[33m3e00bfb[m use shared eslint config
+[33md92fcac[m 5.0.0
+[33m48c8bbb[m support restarts on api, update to node 6, fixes #13
+[33m70a90d4[m update .eslintrc
+[33m5e887be[m update .eslintrc
+[33m1b232d7[m update .eslintrc
+[33m0a12d80[m update .eslintrc
+[33m20cf8a6[m update .eslintrc
+[33m71d8b53[m 4.0.2
+[33ma9a49ad[m tweaks
+[33m5353f36[m update dependencies
+[33m1e7d144[m update .eslintrc
+[33m254cee2[m update .eslintrc
+[33m6e3737c[m update .travis.yml
+[33m3d3d257[m update .eslintrc
+[33m594ff46[m update .eslintrc
+[33mdeb75d4[m update .eslintrc
+[33mb7d2b53[m update .eslintrc
+[33m8450b62[m 4.0.1
+[33m273e2dc[m more updates
+[33m47d0a56[m updates
+[33mb5be5f9[m update .eslintrc
+[33m392612d[m update .eslintrc
+[33mea21690[m update .eslintrc
+[33m00ca883[m update .eslintrc
+[33m58174bb[m update .eslintrc
+[33m1b0ddb6[m 4.0.0
+[33m46518cf[m 3.0.11
+[33m12c3983[m change var to let/const
+[33m6f17325[m update .eslintrc
+[33m83a6690[m update .eslintrc
+[33m53715cf[m update .eslintrc
+[33mdf359ef[m update .eslintrc
+[33m9b2589f[m update .eslintrc
+[33m170c584[m update .eslintrc
+[33mb16d3ab[m 3.0.10
+[33mc23150a[m update deps
+[33m7e12552[m update .eslintrc
+[33ma64ba0a[m update .eslintrc
+[33m8d3f6b2[m update .eslintrc
+[33m5fee770[m 3.0.9
+[33m357fe57[m readme tweak
+[33m1a4e29e[m 3.0.8
+[33m0358122[m add tests
+[33mffaecde[m better badges
+[33md3853fb[m update .eslintrc
+[33m07c48b3[m update .eslintrc
+[33m3c2447c[m update .eslintrc
+[33m32d6ada[m update .eslintrc
+[33m9130de1[m try to output output in all exit cases
+[33mf5b6bb2[m don't set process title
+[33m44e6014[m remove licence year
+[33mc5ef59c[m update .eslintrc
+[33m2eb4f61[m update .eslintrc
+[33m8d5ba49[m update .eslintrc
+[33m7676700[m update .eslintrc
+[33mba9da13[m 3.0.7
+[33m24d14d7[m set exit code 1 if all pings fail
+[33mf4dc4b9[m update .eslintrc
+[33m4313edb[m 3.0.6
+[33m43b7d3f[m bump deps
+[33mcacf682[m return instance of new keyword is ommitted
+[33med6b5b6[m update .eslintrc
+[33m1db35a2[m update .eslintrc
+[33m5fb1cd2[m update .eslintrc
+[33m9d796f8[m workaround tty issue for ncu
+[33m9b5be78[m update .eslintrc
+[33m37b7f7e[m update .eslintrc
+[33mdf2dac6[m update .eslintrc
+[33m9917ceb[m update .eslintrc
+[33m02042d5[m update .eslintrc
+[33md5a7e20[m update .eslintrc
+[33m296eebc[m update .eslintrc
+[33maf246d3[m 3.0.5
+[33m9be8e3f[m update tagline and readme headers
+[33m50b1bcd[m add port to example
+[33mb5fcc1e[m 3.0.4
+[33mf444219[m bump deps
+[33m4df6bcb[m update latencies :rocket:
+[33m0f56c2b[m fix version targets in Makefile
+[33md1104c3[m 3.0.3
+[33m457410d[m fix boolean arguments parsing
+[33mb698ec8[m fix linter errors
+[33mb002e5a[m bump deps
+[33m314374c[m switch to Makefile
+[33mdb8b80f[m update .eslintrc
+[33ma1201ba[m update .eslintrc
+[33m5ea2dc5[m update .eslintrc
+[33ma7c93ed[m update .eslintrc
+[33m2ea5ead[m 3.0.2
+[33m03e7abc[m chain some event emitters
+[33m2cba518[m update style for new linter rules
+[33m0170c22[m update .eslintrc
+[33m984aaed[m update .eslintrc
+[33m6579772[m update .eslintrc
+[33m63ccd92[m 3.0.1
+[33m5510166[m Another tweak to -C
+[33m99ef8e0[m update deps and Gruntfile
+[33m74573d7[m fix -C
+[33mc4e7e44[m update .eslintrc
+[33ma9fc032[m update .eslintrc
+[33m57c0c6b[m update .eslintrc
+[33m2405157[m update .eslintrc
+[33md2439ec[m update .eslintrc
+[33m76d4c6a[m 3.0.0
+[33madd86b0[m Fix -T
+[33mfcaed25[m exit code determines success
+[33m208fe1c[m better stdin handling
+[33mde7f7c2[m 2.0.1
+[33mbec9cf2[m Update deps
+[33m04a72d5[m Update all the things, reindent
+[33mafec2db[m 2.0.0
+[33mda8fc86[m Update keywords
+[33m621ef5a[m Update and simplify api docs
+[33me16861a[m Move err argument of the error callback to the first position
+[33m3f9da20[m 1.2.3
+[33mf78a52c[m Extend the correct object
+[33md18c19d[m Fix licence string
+[33mbbfab07[m Switch defaults for util-extend
+[33mdffb06f[m 1.2.2
+[33m2ebb437[m Tweak editorconfig
+[33m4be7a89[m Switch to eslint
+[33ma59112d[m Tweak grunt release task
+[33mbcbaade[m Update  package.json
+[33me5f2836[m Release 1.2.1
+[33m627c7a3[m Tweak url regex and version print
+[33ma2d0974[m Release 1.2.0
+[33m6f78004[m Add support for URL destinations, fix #5
+[33m4460ed9[m Release 1.1.2
+[33mf0a6fdb[m Only set raw mode when terminal is a tty
+[33m47e124c[m Readme: Add stats
+[33m65f5e53[m Release 1.1.1
+[33mb230ebc[m Update readme and examples
+[33ma235d20[m Release 1.1.0
+[33m9f7bcfb[m Switch argv parser to minimist
+[33m028f96a[m Release 1.0.3
+[33m874bc5c[m Update dependencies and more description tweaks
+[33m22e607d[m Readme tweaks
+[33mcb8ffcc[m Use raw terminal mode to avoid printing ^C
+[33mc8ca328[m Readme: Update example
+[33maacad52[m Release 1.0.2
+[33m0da4fdd[m Remove unnecessary socket.setNoDelay
+[33m4b7136a[m Release 1.0.1
+[33mcfc07b4[m Set TCP_NODELAY
+[33mf5d656d[m Release 1.0.0
+[33m5c7d139[m Update package.json
+[33m173ba4d[m Update .jshintrc
+[33m81083c1[m JSHint
+[33m483d4da[m Reindent readme
+[33m6c8e8d6[m Enable color by default, tweak host not found message
+[33m6ddfa49[m Add -T option for timestamps
+[33m95e4167[m Rework coloring with --color
+[33m8b591e6[m Update dependencies
+[33m2a36389[m Avoid EPIPE errors
+[33m051e3f8[m Release 0.14.1
+[33m6e8cf87[m Update package.json and gruntfile
+[33md3a25ba[m Update devdeps
+[33m77f4ce2[m Fix process title and format cli help
+[33m86f9eca[m Release 0.14.0
+[33m2a6e7e4[m Fix counting bug, update readme
+[33m049047d[m Release 0.13.0
+[33m07c7c2c[m Change version print to -v
+[33m6ae2129[m Release 0.12.5
+[33m2d83399[m Readme: Also update the main heading
+[33m37c0963[m Release 0.12.4
+[33m5d7fdf9[m Merge pull request #11 from zeke/patch-1
+[33m00b5928[m fix headings
+[33mbcfe332[m Release 0.12.3
+[33m2a50262[m Add host:port support, fix #6
+[33m74b77bb[m Set process name
+[33ma3952f6[m Release 0.12.2
+[33m8b1a5c4[m Print summary to stderr when process is piped
+[33m0a1cefd[m Release 0.12.1
+[33mbef15d2[m Fix typo in command help
+[33m7c69327[m Release 0.12.0
+[33me98d4bb[m Always print stats, even when all attempts fail
+[33m14308a9[m Release 0.11.0
+[33m71ed637[m #9 Hide undefined srcports
+[33m27fd063[m Revert flood mode setImmediate It had hit OS limits on number of open sockets. Will think of a better way to do this.
+[33m2b62ffb[m Fix timeout parsing on CLI
+[33m165a321[m Better check for clearing timers
+[33m6098380[m Speed up flood mode by using setImmediate
+[33m113412d[m Refactoring, catch process 'exit'
+[33ma2decac[m Release 0.10.2
+[33m8c4e7a3[m Don't log srcport on errors
+[33m65581ba[m Release 0.10.1
+[33m26f08b3[m Increase sent counter only when a result is obtained
+[33m097af7e[m Readme: Add semicolon
+[33ma5f25f6[m Release 0.10.0
+[33m8943526[m Rework event args, add target property
+[33md84d627[m Fix #8 - Only emit once per interval
+[33m2502c21[m Release 0.9.0
+[33m6a042c6[m Fix rtt coloring
+[33m6dfe161[m Release 0.8.3
+[33m59c03be[m Readme: Fix default for interval
+[33mb113ddf[m Release 0.8.2
+[33me58d89a[m package: Update keywords
+[33m42999a0[m Readme: Add defaults, restructure events
+[33mef14517[m Release 0.8.1
+[33m620d975[m Readme: Add some description
+[33md4a7c69[m Use local variable for increasing stats.sent
+[33m4152e43[m Release 0.8.0
+[33mfcb1bd2[m Fix IP as source, JSHint
+[33m8dfdd83[m Release 0.7.0
+[33m3270d69[m Fix usage print by renaming cli.js to tcpie.js
+[33m407ba41[m Release 0.6.0
+[33mf1198fa[m Add standard deviation to CLI statistics
+[33m1a3fe7b[m Add 'ms' to rtt
+[33mfb6f2cd[m Stop an active timer when count is reached
+[33mf5a03fc[m Release 0.5.1
+[33mfb2847e[m Readme: Update example
+[33m4a11557[m Release 0.5.0
+[33m43bf68c[m Fix #2 - color coding, fix success percentage
+[33m6245d2a[m Readme: More tweaks
+[33m86a51a0[m Readme: Reformat API
+[33mc664e3d[m Release 0.4.0
+[33m9235f13[m Fix #3 - add details object
+[33md4b90f6[m Readme: Few fixes
+[33mc180f11[m Release 0.3.1
+[33m5515f66[m Fix exit condition, update example
+[33mdce54f0[m Release 0.3.0
+[33m75cdfb8[m Fix #1 - Instantiation
+[33m7a1cac0[m Release 0.2.2
+[33mffd43f3[m More readme tweaks/fixes
+[33mdd71ecc[m Release 0.2.1
+[33m5c944a7[m CLI help: lowercase everything
+[33mc66840f[m Release 0.2.0
+[33m387cbf0[m API: make port optional
+[33me8c86d7[m Readme: Tweaks
+[33m779c14b[m Add .gitignore and .npmignore
+[33m2cb75b0[m Initial commit
