@@ -3,7 +3,6 @@
   "editor.minimap.enabled": false, // Disables the minimap
   "editor.wordWrap": "off", // Enables word wrapping
   "files.exclude": {
-    // Hides unnecessary files from the file explorer
     "**/.DS_Store": true,
     "**/node_modules": true
   },
