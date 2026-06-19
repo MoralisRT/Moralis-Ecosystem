@@ -20,7 +20,7 @@
   "terminal.integrated.defaultProfile.windows": "Command Prompt",
   "terminal.integrated.profiles.linux": {
     "GitHub CLI": {
-      "path": "/usr/bin/gh"
+      "path": "/usr/bin/gh" 
     },
     "Default Shell": {
       "path": "/bin/bash"
