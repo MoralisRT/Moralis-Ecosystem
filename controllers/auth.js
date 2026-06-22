@@ -6,7 +6,7 @@ const axios = require('axios');
 const User = require('../models/User');
 
 // @route   GET api/auth
-// @desc    Get user by token
+// @desc    Get user by token 
 // @access  Private
 // @route   POST api/auth
 // @desc    Authenticate user & get token
