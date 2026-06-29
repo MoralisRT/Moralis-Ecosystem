@@ -6,3 +6,4 @@ const { handleFreeChipsRequest } = require('../../controllers/chips');
 router.get('/free', validateToken, handleFreeChipsRequest);
 
 module.exports = router;
+ 
