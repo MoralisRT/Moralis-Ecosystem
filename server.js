@@ -9,7 +9,7 @@ const app = express();
 
 configureMiddleware(app);
 
-// Routes
+// Routes 
 configureRoutes(app);
 
 // ---- AUTO PORT LOGIC ----
