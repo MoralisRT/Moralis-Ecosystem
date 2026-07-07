@@ -17,7 +17,7 @@ Our solutions combine cutting-edge Web3 technologies with engaging gaming experi
 - 🪙 NFT Asset Ownership
 - 🛒 NFT Marketplace
 - ⚡ Real-Time Multiplayer Sync
-- 💬 Live Chat & Social Features
+- 💬 Live Chat & Social Features 
 - 🏆 Global Leaderboards
 - 📊 Player Statistics
 - 🤖 AI-Powered Systems
