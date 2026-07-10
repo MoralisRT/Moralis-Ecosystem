@@ -4,7 +4,7 @@
   "editor.wordWrap": "off", // Enables word wrapping
   "files.exclude": {
     "**/.DS_Store": true,
-    "**/node_modules": true
+    "**/node_modules": true 
   },
   
   "editor.tabSize": 2, // Sets tab size to 2 spaces
