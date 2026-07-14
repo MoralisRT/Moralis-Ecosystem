@@ -1,7 +1,7 @@
 {
   "files.autoSave": "afterDelay", // Automatically saves files after a delay
   "editor.minimap.enabled": false, // Disables the minimap
-  "editor.wordWrap": "off", // Enables word wrapping
+  "editor.wordWrap": "off", // Enables word wrapping 
   "files.exclude": {
     "**/.DS_Store": true,
     "**/node_modules": true 
